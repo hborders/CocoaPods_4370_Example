@@ -1,15 +1,7 @@
 PODS:
-  - CocoaLumberjack (2.0.3):
-    - CocoaLumberjack/Default (= 2.0.3)
-    - CocoaLumberjack/Extensions (= 2.0.3)
   - CocoaLumberjack/Core (2.0.3)
-  - CocoaLumberjack/Default (2.0.3):
-    - CocoaLumberjack/Core
-  - CocoaLumberjack/Extensions (2.0.3):
-    - CocoaLumberjack/Default
 
 DEPENDENCIES:
-  - CocoaLumberjack (~> 2.0.1)
   - CocoaLumberjack/Core (~> 2.0.1)
 
 SPEC CHECKSUMS:

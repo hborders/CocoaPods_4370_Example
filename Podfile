@@ -1,6 +1,8 @@
 workspace 'MyWorkspace'
 xcodeproj 'MyProject/MyProject.xcodeproj'
 
+use_frameworks!
+
 source 'https://github.com/CocoaPods/Specs.git'
 
 link_with 'MyProject', 'MyShare'
